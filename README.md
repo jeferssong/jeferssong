@@ -10,8 +10,7 @@
 
 Future Engineer [Freelance](www.sena.edu.co/).  
 
-🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🔒 Security  
-☁️ Networking, 🌟 Astronomy, 🧪 Chemistry, 💻 FullStack, 💻 DevOps.  
+💻 Developer, 💻 Engineer.  
   
 ![](https://komarev.com/ghpvc/?username=jeferssong&color=blue)
 
