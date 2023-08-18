@@ -21,7 +21,6 @@ Future Engineer [Freelance](www.sena.edu.co/).
 <img src='https://raw.githubusercontent.com/kearciniegas/Kearci/main/skills/css.png' height='42px'/>
 <img src='https://raw.githubusercontent.com/kearciniegas/Kearci/main/skills/java.png' height='42px'/>
 <img src='https://raw.githubusercontent.com/kearciniegas/Kearci/main/skills/html.png' height='42px'/>
-<img src='https://raw.githubusercontent.com/kearciniegas/Kearci/main/skills/typescript.png' height='42px'/>
 </p>
 
 <h2 align="center">Pinned Repositories</h2>
